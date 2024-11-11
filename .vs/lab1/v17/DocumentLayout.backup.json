@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stepa\\Documents\\code\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324B94D7-C317-4702-82BF-B0786A2EC75C}|lab1_3\\lab1_3.csproj|c:\\users\\stepa\\documents\\code\\lab1\\lab1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324B94D7-C317-4702-82BF-B0786A2EC75C}|lab1_3\\lab1_3.csproj|solutionrelative:lab1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CABFF0A-6923-486D-AF0E-FB7C0C2687DD}|lab1_1\\lab1_1.csproj|c:\\users\\stepa\\documents\\code\\lab1\\lab1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CABFF0A-6923-486D-AF0E-FB7C0C2687DD}|lab1_1\\lab1_1.csproj|solutionrelative:lab1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE667B06-08EB-4984-963E-1552BF280050}|lab1_2\\lab1_2.csproj|c:\\users\\stepa\\documents\\code\\lab1\\lab1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE667B06-08EB-4984-963E-1552BF280050}|lab1_2\\lab1_2.csproj|solutionrelative:lab1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A59E7D-4E3F-4194-AAF8-33383955AF45}|test1_2\\test1_2.csproj|c:\\users\\stepa\\documents\\code\\lab1\\test1_2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A59E7D-4E3F-4194-AAF8-33383955AF45}|test1_2\\test1_2.csproj|solutionrelative:test1_2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4956AB7E-E853-4F49-BAD6-40FDA266A5E7}|test1_3\\test1_3.csproj|c:\\users\\stepa\\documents\\code\\lab1\\test1_3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4956AB7E-E853-4F49-BAD6-40FDA266A5E7}|test1_3\\test1_3.csproj|solutionrelative:test1_3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\stepa\\Documents\\code\\lab1\\test1_3\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "test1_3\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\stepa\\Documents\\code\\lab1\\test1_3\\UnitTest1.cs",
+              "RelativeToolTip": "test1_3\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:56:46.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\stepa\\Documents\\code\\lab1\\test1_2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "test1_2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\stepa\\Documents\\code\\lab1\\test1_2\\UnitTest1.cs",
+              "RelativeToolTip": "test1_2\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:55:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stepa\\Documents\\code\\lab1\\lab1_3\\Program.cs",
+              "RelativeDocumentMoniker": "lab1_3\\Program.cs",
+              "ToolTip": "C:\\Users\\stepa\\Documents\\code\\lab1\\lab1_3\\Program.cs",
+              "RelativeToolTip": "lab1_3\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwGIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:54:19.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stepa\\Documents\\code\\lab1\\lab1_2\\Program.cs",
+              "RelativeDocumentMoniker": "lab1_2\\Program.cs",
+              "ToolTip": "C:\\Users\\stepa\\Documents\\code\\lab1\\lab1_2\\Program.cs",
+              "RelativeToolTip": "lab1_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:53:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stepa\\Documents\\code\\lab1\\lab1_1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1_1\\Program.cs",
+              "ToolTip": "C:\\Users\\stepa\\Documents\\code\\lab1\\lab1_1\\Program.cs",
+              "RelativeToolTip": "lab1_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:53:12.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
